@@ -265,7 +265,7 @@ padding-bottom: 25px;
 font-size:10px;
 color: #66ff99;
 font-family: 'Ubuntu Condensed', sans-serif;
-background: #141414;
+background-image: url('/logos/image.jpeg');
 }
 .Sigma img{
   height: 100px;
